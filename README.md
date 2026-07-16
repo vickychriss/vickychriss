@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @vickychriss.
-- 👀 I’m interested in books, and programming.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate in open source projects.
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: I have a dog, which it's name's Aurorinha e Haylinha <3
+-  I’m interested in books, and programming.
+-  I’m currently learning HTML and CSS.
+-  I’m looking to collaborate in open source projects.
+
